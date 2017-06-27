@@ -5,6 +5,7 @@ homepage: https://github.com/igrigorik/heroku-buildpack-dart
 description: A minimal static HTTP server to demonstrate Dart on Heroku.
 dependencies:
   sqljocky: "^0.14.1"
+  vector_math: "^1.4.3"
   browser: any
   shelf: any
   shelf_static: any
