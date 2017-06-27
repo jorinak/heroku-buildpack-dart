@@ -1,5 +1,0 @@
-name: source_code
-description: A new Flutter project.
-
-dependencies:
-  sqljocky: any
