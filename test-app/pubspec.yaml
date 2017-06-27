@@ -7,3 +7,4 @@ dependencies:
   browser: any
   shelf: any
   shelf_static: any
+  sqljocky: "^0.14.1"
