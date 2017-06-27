@@ -6,4 +6,5 @@ description: A minimal static HTTP server to demonstrate Dart on Heroku.
 dependencies:
   browser: any
   shelf: any
+  shelf_static: any
   sqljocky: "^0.14.1"
